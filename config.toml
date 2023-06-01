@@ -1,6 +1,5 @@
-baseURL = 'https://larbs.xyz/'
 languageCode = 'en-us'
-title = 'LARBS'
+title = 'KBS'
 
 theme = 'lugo'
 
