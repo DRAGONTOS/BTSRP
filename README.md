@@ -22,7 +22,7 @@ with a fully configured diving-board for work or more customization.
 ## Customization
 
 By default, KBS uses the programs [here in progs.csv](static/progs.csv) and installs
-[my dotfiles repo (voidrice) here](https://github.com/lukesmithxyz/voidrice),
+[my dotfiles repo (Ellipsis) here](https://github.com/dragontos/ellipsis),
 but you can easily change this by either modifying the default variables at the
 beginning of the script or giving the script one of these options:
 
