@@ -6,7 +6,7 @@
 
 ### OPTIONS AND VARIABLES ###
 
-dotfilesrepo="https://github.com/dragontos/voidrice.git"
+dotfilesrepo="https://github.com/dragontos/ellipsis.git"
 progsfile="https://raw.githubusercontent.com/DRAGONTOS/KBS/master/static/progs.csv"
 aurhelper="yay"
 repobranch="master"
